@@ -60,5 +60,3 @@ This is a personal study repo, but feel free to open issues or suggest improveme
 This repo contains original code based on educational exercises. All rights to the book content belong to the author and Manning Publications.
 
 ---
-
-Let me know if you'd like this converted into an actual file or customized for a specific style (e.g., academic, startup portfolio, etc.)!
